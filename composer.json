@@ -1,6 +1,6 @@
 {
-    "name": "pruebas/batoi",
-    "description" : "Pruebas - Php",
+    "name": "sessions/batoi",
+    "description" : "Sessions - Php",
     "type": "project",
     "license": "MIT",
     "authors": [
